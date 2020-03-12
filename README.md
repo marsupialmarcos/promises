@@ -160,4 +160,4 @@ Implement Promise.promisify, Promise.all, Promise.race
 Resources
 * [The Promise Cookbook](https://github.com/mattdesl/promise-cookbook)
 * [Conjurer's Guide to Promises](http://www.youhavetolearncomputers.com/blog?category=Hack+Reactor)
-* [https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887)
+* [Javascript Promises In Twenty Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887)
