@@ -6,10 +6,10 @@ Promises are a very powerful abstraction on top of callbacks and many asynchrono
 
 This sprint is designed to ease you into using implementing and consuming promises by comparing them to the callback pattern you are already familiar with.
 
-Setup
-
+**Setup**
+```javascript
 npm install
-
+```
 
 # Bare Minimum Requirements
 
