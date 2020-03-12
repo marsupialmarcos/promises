@@ -70,6 +70,7 @@ Read more: [http://bluebirdjs.com/docs/api/promisification.html](http://bluebird
 Complete the exercises in bare_minimum/promisification.js and make the Promisification tests pass
 
 **Chain promises together**
+
 Remember the pyramid of doom?
 ```javascript
 var addNewUserToDatabase = function(user, callback) {
